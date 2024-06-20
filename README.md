@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator using Python
 
 This Python script generates a random password based on user input using the tkinter library for the GUI.
 
